@@ -4,7 +4,7 @@
 
 - #App 01: Crie um App chamado Meu Perfil Profissional, onde ele exiba a sua foto, dados pessoais, formação, experiência e projetos que você já fez.
 
-  ## App-01
+  ## App-02
   
 - #App 02: Contador de Pessoas presentes na Loja
 
